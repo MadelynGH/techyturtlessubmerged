@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Moderustic:wght@300..800&display=swap');
+ 
+body, html {
+    background-color: black;
+    font-family: "Moderustic", sans-serif;
+    margin: 0;
+}
+
+h1 {
+   font-family: "Orbitron";
+}
+
+a {
+  color: #00ff40;
+}
+
+ul, ol {
+  text-align: left;
+}
+
+p, ul, ol {
+  font-size: 1.5em;
+}
+
+.break {
+  flex-basis: 100%;
+  height: 0;
+}
+
+#header {
+  display: flex;
+  align-items: center;
+  text-align: left;
+  border-bottom: #00ff40 2px outset;
+  height: 15vh;
+}
+
+.header-link {
+  text-decoration: none;
+  font-weight: 500;
+  margin: 15px;
+  font-size: 1.5em;
+}
+
+#big-picture {
+  height: 40vh;
+}
+
+#logo {
+  margin: 10px;
+  height: 12vh;
+}
+
+#page {
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+
+  color: #00ff40;
+  text-align: center;
+}
