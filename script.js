@@ -5,5 +5,5 @@ document.getElementById("header").innerHTML = `
 <a href="about.html" class="header-link">About</a>
 <a href="dead-zones.html" class="header-link">Dead Zones</a>
 <a href="game.html" class="header-link">Game</a>
-<a href="Tips and tricks to help the cause.html" class="header-link">Tips and tricks to help the cause</a>`;
+<a href="tips-and-tricks.html" class="header-link">Tips and Tricks</a>`;
 
