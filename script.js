@@ -6,4 +6,3 @@ document.getElementById("header").innerHTML = `
 <a href="dead-zones.html" class="header-link">Dead Zones</a>
 <a href="game.html" class="header-link">Game</a>
 <a href="tips-and-tricks.html" class="header-link">Tips and Tricks</a>`;
-
